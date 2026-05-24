@@ -1,5 +1,14 @@
+# Terraform
 .terraform/
+.terraform.lock.hcl
 *.tfstate
 *.tfstate.backup
 terraform.tfvars
-*.pem
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Others
+.env
