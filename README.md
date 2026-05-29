@@ -47,6 +47,9 @@ App live on internet! 🌐
 ## Live Demo
 App URL: http://<EC2-PUBLIC-IP>:5000
 
+Note: EC2 instance stopped to avoid AWS charges.
+      Run locally using Docker steps below.
+
 ## How To Run Locally
 ```bash
 # Clone repo
